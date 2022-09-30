@@ -1,0 +1,1 @@
+About: I am randomguy6407 and usually like to play video games like minecraft or sometimes even roblox. I sometimes also script on roblox and i am trying to make my first script! I know some Roblox lua (basic) as well as starting to learn javascript,html and c++. Thanks for reading my about me!
